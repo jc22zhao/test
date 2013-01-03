@@ -1,6 +1,6 @@
 #Testing backup script
 git add .
-$ x = $date
-git commit -m "x"
+echo "test: `date`"
+git commit -m "test: `date`"
 git push -u origin master
-echo jc22zhao
+
