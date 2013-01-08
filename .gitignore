@@ -1,7 +1,5 @@
-#List of ignored filetypes
-ErrorLogs
-files
-*.zip
-asdf.txt
-*.igr
+$ cat .gitignore
 ignoreddir
+testa.txt
+*.igr
+asdf.txt
